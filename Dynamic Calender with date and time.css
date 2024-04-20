@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: orangered;
+}
+
+.container {
+    text-align: center;
+}
+
+#date {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#time {
+    font-size: 36px;
+    font-weight: bold;
+}
